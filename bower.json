@@ -1,0 +1,17 @@
+{
+  "name": "multivision",
+  "version": "0.0.0",
+  "homepage": "https://github.com/adionisiodr/multivision",
+  "authors": [
+    "adionisiodr <adionisio82@gmail.com>"
+  ],
+  "description": "pluralsight tutorial on MEAN",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "toastr": "~2.1.1",
+    "angular": "~1.4.0",
+    "angular-resource": "~1.4.0",
+    "angular-route": "~1.4.0"
+  }
+}
